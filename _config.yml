@@ -1,0 +1,8 @@
+title: roulette6.github.io
+description: Test website using GitHub pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
